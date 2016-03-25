@@ -1,4 +1,4 @@
-Sublimelinting Works! Syntax file is just started. Note this only works with https://github.com/rakitzis/rc, because you can invoke it with the `-n flag`
+Sublimelinting Works! Syntax file is just started. Note this only works with https://github.com/rakitzis/rc, because you can invoke it with the `-n flag`. On Ubuntu you can install it like so: `sudo apt install rc`.
 
 # rc-shell-linter-for-Sublimetext3
 Sublimelinter3 plugin for rc shell https://github.com/rakitzis/rc
